@@ -4,7 +4,7 @@ A full stack, app used for reviewing employee.
 Hoisted Link :
 
 # By:- Atul shaw
-
+## to login as an admin use happy in the navbar after login
 ### Description
 
 A full stack app, in which the admin, can assign the employees, to review each other on the basic of there work. The admin has special power, to make any other employee
